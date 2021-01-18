@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "product_domain"
+		},
+		{
+			"path": "product_external_hasura"
+		},
+		{
+			"path": "product_presenter"
+		},
+		{
+			"path": "product_external_firebase"
+		}
+	],
+	"settings": {}
+}
